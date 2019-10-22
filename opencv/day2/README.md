@@ -24,3 +24,15 @@
 *   cd darknet
 *   make
 *   下載: https://github.com/jumbokh/cv_face
+##
+### 參考網頁:
+### [Darknet -- YOLO V2 with RPI](https://pjreddie.com/darknet/yolov2/)
+### [比较OpenCV中4个haar特征训练的级联分类器](https://blog.csdn.net/u012679707/article/details/80377387)
+### [使用Haar Cascade 进行人脸识别](https://blog.csdn.net/wutao1530663/article/details/78294349)
+### [實驗參考一: 十行Python代码实现人脸识别](https://zhuanlan.zhihu.com/p/66368987)
+### [實驗參考二:Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
+### [不同版本 opencv 參數錯誤參考: 人脸定位和识别](http://zhangchunlei.com/blog/2015/11/26/face-detection-and-recognition/)
+### [實驗參考三:重磅：TensorFlow实现YOLOv3](https://cloud.tencent.com/developer/article/1093051)
+### [實驗參考四(樹莓派 DarkNet): YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolov2/)
+### [實驗參考五(opencv): Python 與 OpenCV 基本讀取、顯示與儲存圖片教學](https://blog.gtwang.org/programming/opencv-basic-image-read-and-write-tutorial/)
+
