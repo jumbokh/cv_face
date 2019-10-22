@@ -17,7 +17,7 @@
 ### python -m pip install opencv-contrib-python
 ### python 
 ### >>> import cv2
-### >>> cv2./_/_version/_/_
+### >>> cv2./*_/*_version/*_/*_
 ##
 *   workon cv
 *   git clone https://github.com/pjreddie/darknet
