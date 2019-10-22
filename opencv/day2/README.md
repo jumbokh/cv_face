@@ -35,4 +35,5 @@
 ### [實驗參考三:重磅：TensorFlow实现YOLOv3](https://cloud.tencent.com/developer/article/1093051)
 ### [實驗參考四(樹莓派 DarkNet): YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolov2/)
 ### [實驗參考五(opencv): Python 與 OpenCV 基本讀取、顯示與儲存圖片教學](https://blog.gtwang.org/programming/opencv-basic-image-read-and-write-tutorial/)
+### [實驗參考六 : Haar Training](https://github.com/sauhaardac/Haar-Training)
 
