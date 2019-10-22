@@ -15,10 +15,10 @@
 *   或是直接安裝 opencv 套件
 ### python -m pip install opencv-python
 ### python -m pip install opencv-contrib-python
-*   python 
-*   >>> import cv2
-*   >>> cv2.__version__
-#
+### python 
+### >>> import cv2
+### >>> cv2.__version__
+##
 *   workon cv
 *   git clone https://github.com/pjreddie/darknet
 *   cd darknet
