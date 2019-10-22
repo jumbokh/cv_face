@@ -12,6 +12,13 @@
 ## 樹莓派:
 *   sudo apt-get update && sudo apt-get upgrade
 *   安裝 OpenCV 4，參考: [Install OpenCV 4 on Raspberry Pi 4 and Raspbian Buster](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/)
+*   或是直接安裝 opencv 套件
+### python -m pip install opencv-python
+### python -m pip install opencv-contrib-python
+*   python 
+*   >>> import cv2
+*   >>> cv2.__version__
+#
 *   workon cv
 *   git clone https://github.com/pjreddie/darknet
 *   cd darknet
