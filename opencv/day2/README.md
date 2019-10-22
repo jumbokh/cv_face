@@ -8,7 +8,7 @@
 *    activate opencv
 *    pip install -r require.txt
 *    下載： keras-yolo3：https://github.com/qqwweee/keras-yolo3
-*    下載: [我的分享]() 中的 yolo weights
+*    下載: [我的分享](https://drive.google.com/open?id=1OlIaqN1n-0bPlIBKpTOdNsvkRCXg63XN) 中的 yolo weights
 ## 樹莓派:
 *   sudo apt-get update && sudo apt-get upgrade
 *   安裝 OpenCV 4，參考: [Install OpenCV 4 on Raspberry Pi 4 and Raspbian Buster](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/)
