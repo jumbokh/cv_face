@@ -10,6 +10,7 @@
 *    下載： keras-yolo3：https://github.com/qqwweee/keras-yolo3
 *    下載: [我的分享](https://drive.google.com/open?id=1OlIaqN1n-0bPlIBKpTOdNsvkRCXg63XN) 中的 yolo weights
 * [VC++ Runtime](https://visualstudio.microsoft.com/zh-hant/downloads/)
+* [Build tool](https://www.microsoft.com/zh-TW/download/details.aspx?id=48159)
 ## 樹莓派:
 *   sudo apt-get update && sudo apt-get upgrade
 *   安裝 OpenCV 4，參考: [Install OpenCV 4 on Raspberry Pi 4 and Raspbian Buster](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/)
