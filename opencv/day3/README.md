@@ -6,7 +6,7 @@
 #### 4. Face Recognition {[Github](https://github.com/ageitgey/face_recognition)}
 #### 
 #### DataSet Directory Structure:
-![目錄結構](images/Dataset_struct.JPG)
+![目錄結構](images/DatasetStruct.JPG)
 #
 ### 相關連結:
 * [pyImage Course](https://drive.google.com/open?id=12VqnvwSKpAGAU9GA7P2MChLAPAJFghx2)
