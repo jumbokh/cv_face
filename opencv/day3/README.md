@@ -4,6 +4,9 @@
 #### 2. 創建DataSet-1. Bing Search {[python code](https://drive.google.com/open?id=1Y7u7oGlEBsJjhyjnWjiImXSuW9dVPO0n)}
 #### 3. 創建DataSet-2. ImageNet
 #### 4. Face Recognition {[Github](https://github.com/ageitgey/face_recognition)}
+#### 
+#### DataSet Directory Structure:
+![目錄結構](images/Dataset_struct.JPG)
 #
 ### 相關連結:
 * [pyImage Course](https://drive.google.com/open?id=12VqnvwSKpAGAU9GA7P2MChLAPAJFghx2)
