@@ -20,6 +20,10 @@
 ### (cv)$ python
 ### >>> import cv2
 ### >>> cv2.\_\_version\_\_
+### >>> exit()
+### (cv)$ ip addr
+### (cv)$ git clone https://github.com/jumbokh/cv_face
+### (cv)$ ls
 ###
 ### 相關連結:
 * [pyImage Course](https://drive.google.com/open?id=12VqnvwSKpAGAU9GA7P2MChLAPAJFghx2)
