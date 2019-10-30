@@ -37,3 +37,4 @@
 * [Face Recognition opencv](https://drive.google.com/open?id=1Y7u7oGlEBsJjhyjnWjiImXSuW9dVPO0n)
 * [Face Recognition (github)](https://github.com/ageitgey/face_recognition.git)
 * [ImageNet](http://www.image-net.org/)
+* [解決相依程式庫](https://blog.piwheels.org/how-to-work-out-the-missing-dependencies-for-a-python-package/)
