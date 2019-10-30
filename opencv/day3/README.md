@@ -10,6 +10,17 @@
 #### DataSet Directory Structure:
 ![目錄結構](images/Dataset_struct.JPG)
 #
+## 首次登入
+### login: pi
+### 密碼: raspberry
+### $ workon cv
+### (cv) $ wget https://github.com/jumbokh/cv_face/blob/master/opencv/day3/requirements.txt
+### (cv) $ pip install -r requirements.txt
+## 測試
+### (cv)$ python
+### >>> import cv2
+### >>> cv2.__version__
+###
 ### 相關連結:
 * [pyImage Course](https://drive.google.com/open?id=12VqnvwSKpAGAU9GA7P2MChLAPAJFghx2)
 * [How to (quickly) build a deep learning image dataset](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
