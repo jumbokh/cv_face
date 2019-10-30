@@ -17,6 +17,14 @@
 ### $ workon cv
 ### (cv) $ wget https://github.com/jumbokh/cv_face/blob/master/opencv/day3/requirements.txt
 ### (cv) $ pip install -r requirements.txt
+### Windows 安裝
+### 開啟 command prompt
+### conda create -n cv 
+###  conda activate cv
+###  pip install numpy
+###  pip install opencv-python opencv-contrib-python
+###  pip install requests imutils
+###  pip install jupyter
 ## 測試
 ### (cv)$ python
 ### >>> import cv2
