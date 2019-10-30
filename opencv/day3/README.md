@@ -19,7 +19,7 @@
 ## 測試
 ### (cv)$ python
 ### >>> import cv2
-### >>> cv2.__version__
+### >>> cv2./__version/__
 ###
 ### 相關連結:
 * [pyImage Course](https://drive.google.com/open?id=12VqnvwSKpAGAU9GA7P2MChLAPAJFghx2)
