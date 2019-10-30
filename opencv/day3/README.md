@@ -15,6 +15,7 @@
 ## 首次登入
 ### login: pi
 ### 密碼: raspberry
+### [python 虛擬環境設定](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 ### $ workon cv
 ### (cv) $ wget https://github.com/jumbokh/cv_face/blob/master/opencv/day3/requirements.txt
 ### (cv) $ pip install -r requirements.txt
