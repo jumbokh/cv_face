@@ -6,6 +6,7 @@
 #### 2. 創建DataSet-1. Bing Search {[python code](https://drive.google.com/open?id=1Y7u7oGlEBsJjhyjnWjiImXSuW9dVPO0n)}
 ### python search_bing_api.py --query "alan grant" --output dataset/alan_grant
 ### python encode_faces.py --dataset dataset --encodings encodings.pickle
+### python recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png
 #### 3. 創建DataSet-2. ImageNet
 #### 4. Face Recognition {[Github](https://github.com/ageitgey/face_recognition)}
 #### 
