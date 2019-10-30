@@ -38,3 +38,4 @@
 * [Face Recognition (github)](https://github.com/ageitgey/face_recognition.git)
 * [ImageNet](http://www.image-net.org/)
 * [解決相依程式庫](https://blog.piwheels.org/how-to-work-out-the-missing-dependencies-for-a-python-package/)
+* [jupyter notebook ocnfig](http://blog.ittraining.com.tw/2018/10/jupyter-notebook-raspberry-pi-3.html)
